@@ -12,6 +12,10 @@ public class Hunger {
         else
         {
             System.out.println("wrong");
+            System.out.println("wrong");
+            System.out.println("wrong");
+
+
         }
     }
 }
