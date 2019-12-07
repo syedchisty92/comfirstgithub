@@ -9,9 +9,9 @@ public class Hunger {
         {
             System.out.println("correct");
         }
-        else
+        else if(i==0)
         {
-            System.out.println("wrong");
+            System.out.println("wrong but 0 has no value");
         }
     }
 }
