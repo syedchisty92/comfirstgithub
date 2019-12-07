@@ -1,0 +1,11 @@
+Index: src/test/second.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/test/second.txt	(date 1575724336464)
++++ src/test/second.txt	(date 1575724336464)
+@@ -0,0 +1,2 @@
++
++HI dded this to the new branch
+\ No newline at end of file
