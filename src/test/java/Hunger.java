@@ -8,6 +8,8 @@ public class Hunger {
         if(i==1)
         {
             System.out.println("correct");
+            System.out.println("correct");
+            System.out.println("correct");
         }
         else
         {
